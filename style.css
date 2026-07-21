@@ -22,11 +22,7 @@ section {
 }
 
 h1, h2 {
-<<<<<<< HEAD
     color:#414028;
-=======
-    color: #414028;
->>>>>>> 789a35c (feat(project): made multiple changes)
 }
 
 p {
@@ -37,10 +33,6 @@ p {
 ul {
     list-style: none;
     padding: 0;
-<<<<<<< HEAD
-=======
-    color: #f4f8f3;
->>>>>>> 789a35c (feat(project): made multiple changes)
 }
 
 li {
@@ -52,19 +44,11 @@ img {
     width: 200px;
     height: 150px;
     border-radius: 8px;
-<<<<<<< HEAD
     border: 2px solid #3d85a4;
-=======
-    border: 2px solid #3a3648;
->>>>>>> 789a35c (feat(project): made multiple changes)
 }
 
 img:hover {
     transform: scale(1.05);
-<<<<<<< HEAD
-=======
-    color: rgb(139, 207, 76);
->>>>>>> 789a35c (feat(project): made multiple changes)
 }
 
 form {
@@ -99,8 +83,4 @@ footer {
     color: white;
     padding: 15px;
     margin-top: 20px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 789a35c (feat(project): made multiple changes)
